@@ -1,8 +1,0 @@
-# ninja log v6
-8	831	7534609026488296	TicTacToe-Multiplayer_autogen/timestamp	3ae41b260136d038
-8	831	7534609026488296	TicTacToe-Multiplayer_autogen/mocs_compilation.cpp	3ae41b260136d038
-8	831	7534609026488296	C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/TicTacToe-Multiplayer_autogen/timestamp	3ae41b260136d038
-8	831	7534609026488296	C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/TicTacToe-Multiplayer_autogen/mocs_compilation.cpp	3ae41b260136d038
-838	3134	7534609027470141	CMakeFiles/TicTacToe-Multiplayer.dir/TicTacToe-Multiplayer_autogen/mocs_compilation.cpp.obj	cd7c6dd56f33608c
-842	3143	7534609027520580	CMakeFiles/TicTacToe-Multiplayer.dir/main.cpp.obj	c7fe781267b14bb5
-846	3677	7534609027564821	CMakeFiles/TicTacToe-Multiplayer.dir/mainwindow.cpp.obj	de2698c6c847a37f

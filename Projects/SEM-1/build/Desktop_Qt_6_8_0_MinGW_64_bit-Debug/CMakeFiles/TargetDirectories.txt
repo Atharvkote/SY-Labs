@@ -1,9 +1,0 @@
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/TicTacToe-Multiplayer.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/TicTacToe-Multiplayer_autogen_timestamp_deps.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/TicTacToe-Multiplayer_autogen.dir

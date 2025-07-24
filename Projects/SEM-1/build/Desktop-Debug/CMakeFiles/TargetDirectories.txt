@@ -1,9 +1,0 @@
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/TicTacToe-Multiplayer.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/install.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/install/local.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/install/strip.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/TicTacToe-Multiplayer_autogen_timestamp_deps.dir
-C:/Users/athar/OneDrive/Documents/TicTacToe-Multiplayer/build/Desktop-Debug/CMakeFiles/TicTacToe-Multiplayer_autogen.dir

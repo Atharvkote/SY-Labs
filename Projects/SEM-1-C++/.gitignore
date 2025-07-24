@@ -1,0 +1,112 @@
+# === OS-specific ===
+.DS_Store        # macOS
+Thumbs.db        # Windows
+ehthumbs.db
+Desktop.ini
+
+# === Qt Creator IDE ===
+*.autosave
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.*
+*.user
+*.user.*
+*.kdev4
+.cproject
+.csettings
+*.kate-swp
+*.bak
+*.backup
+*.orig
+*.swp
+
+# === CMake Build Directories ===
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+install_manifest.txt
+
+# === Qt Build Artifacts ===
+*.moc
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.lib
+*.exe
+*.app
+*.dylib
+*.ncb
+*.ilk
+*.pdb
+*.vcxproj*
+*.qrc.depends
+*.rcc
+*.qrc.cpp
+
+# === Compiler-generated ===
+*.lo
+*.la
+*.al
+*.ko
+*.mod
+*.cmd
+*.mod.c
+*.symvers
+*.order
+*.markers
+
+# === Logs & Debug ===
+*.log
+*.gch
+*.pch
+*.sdf
+*.suo
+*.idb
+*.ipch
+*.aps
+*.tlog
+*.lst
+*.map
+*.d
+
+# === Unit Test and Coverage ===
+test-output/
+*.gcda
+*.gcno
+*.gcov
+*.gcda.*
+*.gcno.*
+
+# === Clang/Code Analysis ===
+.clang-format
+.clang-tidy
+.cache/
+.idea/
+.vscode/
+
+# === Custom Temporary Folders ===
+tmp/
+debug/
+release/
+x64/
+x86/
+bin/
+obj/
+out/
+dist/
+
+# === Package Management ===
+conanbuildinfo.*
+conanfile.lock
+vcpkg_installed/
+.vscode/c_cpp_properties.json
